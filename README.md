@@ -1,3 +1,15 @@
+
+# Requirements
+Java 8
+Maven
+
+--------------------------------------------
+There is POSTMAN collection in project folder for API.
+
+Swagger : http://localhost:8080/swagger-ui.html
+
+-------------------------------------------
+
 # iyzico coding challenge
 
 Thank you for applying to work in Iyzico Engineering.
